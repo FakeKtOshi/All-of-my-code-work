@@ -3,12 +3,12 @@
 #include <DallasTemperature.h>
 
 // ตั้งค่า key ของ Adafruit IO
-#define IO_USERNAME  "KtOshi"
-#define IO_KEY       "aio_nDOQ42QQeDvHf3LVfurSrb7Mluki"
+#define IO_USERNAME  "Kt----"
+#define IO_KEY       "aio_nDOQ42QQeDvHf3LVfur-----"
 
 // ตั้งค่าชื่อ wifi
-#define WIFI_SSID "zenzen"
-#define WIFI_PASS "0874141188"
+#define WIFI_SSID "zen---"
+#define WIFI_PASS "087414---"
 
 #define SW D6
 

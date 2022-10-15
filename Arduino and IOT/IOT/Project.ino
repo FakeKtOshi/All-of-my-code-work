@@ -7,15 +7,15 @@
 
 #define LED2 D1
 
-#define WLAN_SSID       "zenzen"            // Your SSID
-#define WLAN_PASS       "0874141188"        // Your password
+#define WLAN_SSID       "zen---"            // Your SSID
+#define WLAN_PASS       "0874141---"        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com" //Adafruit Server
 #define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "KtOshi"            // Username
-#define AIO_KEY         "aio_nDOQ42QQeDvHf3LVfurSrb7Mluki"   // Auth Key
+#define AIO_USERNAME    "Kt---"            // Username
+#define AIO_KEY         "aio_nDOQ42QQeDvHf3LVfurS---"   // Auth Key
 
 const int LED1 = 12;
 OneWire oneWire(LED1);

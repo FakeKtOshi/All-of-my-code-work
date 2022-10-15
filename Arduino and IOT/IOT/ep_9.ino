@@ -2,11 +2,11 @@
 #include <NTPClient.h>
 #include <WiFiUdp.h>
 // Replace with your network credentials
-const char *ssid = "zenzen";
-const char *password = "0874141188";
+const char *ssid = "zen---";
+const char *password = "087414----";
 // Define NTP Client to get time
 WiFiUDP ntpUDP;
-NTPClient timeClient(ntpUDP, "th.pool.ntp.org");
+NTPClient timeClient(nt----, "th.pool.ntp.org");
 //Week Days
 String weekDays[7]={"Sunday", "Monday", "Tuesday", "Wednesday",
 "Thursday", "Friday", "Saturday"};

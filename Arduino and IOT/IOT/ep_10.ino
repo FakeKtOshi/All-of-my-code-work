@@ -14,13 +14,13 @@
 
 
 
-const char* ssid = "zenzen";
-const char* password = "0874141188";
+const char* ssid = "zen----";
+const char* password = "0874141---";
 
 
 
 // Your Domain name with URL path or IP address with path
-String openWeatherMapApiKey = "8b4559c191f77d4f81596fc0d7e2c33d";
+String openWeatherMapApiKey = "8b4559c191f77d4f81596fc0d7e2----";
 // Example:
 //String openWeatherMapApiKey = "bd939aa3d23ff33d3c8f5dd1dd4";
 

@@ -1,7 +1,7 @@
 
 // Fill-in information from your Blynk Template here
-#define BLYNK_TEMPLATE_ID "TMPLnOaDh7Kx"
-#define BLYNK_DEVICE_NAME "3LED"
+#define BLYNK_TEMPLATE_ID "TMPLnOaDh7Kx---"
+#define BLYNK_DEVICE_NAME "3LED---"
 
 #define BLYNK_FIRMWARE_VERSION        "0.1.0"
 

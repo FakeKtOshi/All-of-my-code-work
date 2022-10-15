@@ -10,10 +10,10 @@ String detectState; //doorState
 // Auxiliary variables (it will only detect changes that are 1500 milliseconds apart)
 unsigned long previousMillis = 0;
 const long interval = 1500;
-const char* ssid = "zenzen";
-const char* password = "0874141188";
+const char* ssid = "zen---";
+const char* password = "0874141---";
 const char* host = "maker.ifttt.com";
-const char* apiKey = "dIBd--Pkx4pkbjGPz1I6Am";
+const char* apiKey = "dIBd--Pkx4pkbjGPz1----";
 // Runs whenever the reedswitch changes state
 ICACHE_RAM_ATTR void irStatus() { //changeDoorStatus()
  Serial.println("State changed");

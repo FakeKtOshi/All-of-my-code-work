@@ -76,7 +76,6 @@ void loop() {
 "-" + String(monthDay);
  Serial.print("Current date: ");
  Serial.println(currentDate);*/
- Serial.println("Krit Leetrakul R.53 No.22");
  Serial.println("");
  delay(2000);
 }
